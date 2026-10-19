@@ -1,0 +1,7 @@
+
+OrderID,Category,Product,Quantity,Price
+101,Electronics,Mouse,2,500
+102,Books,Python Book,3,400
+103,Electronics,Keyboard,1,1200
+104,Clothing,T-Shirt,4,300
+105,Books,Java Book,2,600
